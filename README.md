@@ -27,9 +27,9 @@
 
 ## Releases
 
-| ROM Version | Android | Kernel Base | Status | Release Link |
-| :---: | :---: | :---: | :---: | :---: |
-| - | - | - | - | - |
+| ROM Version | Android Version | Kernel Version | Build Revision | Status | Release Link |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| LineageOS 23.2 | Android 16 | 4.14 | rev.0 | Actual | [GitHub](https://github.com/pissarro-development/LineageOS-Releases/releases/tag/v23.2_rev.0) / [SourceForge](https://sourceforge.net/projects/pissarro-development/files/ROMs/LineageOS/v23.2_rev.0/) |
 
 *Changelogs, known issues, checksums, and build-specific flashing instructions are attached to each individual release on the [Releases](https://github.com/pissarro-development/LineageOS-Releases/releases) page.*
 
